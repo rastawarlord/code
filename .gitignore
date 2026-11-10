@@ -1,0 +1,8 @@
+# Private per-machine config for the project agents (IDs, usernames, paths)
+.claude/local/
+
+# Claude Code per-user settings (may hold permission grants or env values)
+.claude/settings.local.json
+
+# macOS Finder metadata
+.DS_Store
